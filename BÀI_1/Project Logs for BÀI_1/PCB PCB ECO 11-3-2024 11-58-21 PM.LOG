@@ -1,0 +1,151 @@
+Change Component Footprint: Designator=P200 Old Footprint=61201021721 New Footprint=61201021721
+Change Component Footprint: Designator=L300A Old Footprint=WE-PD_7345 New Footprint=WE-PD_7345
+Change Component Footprint: Designator=L300B Old Footprint=WE-PD_7345 New Footprint=WE-PD_7345
+Added Component: Designator=J600(RPI GPIO)
+Added Pin To Net: NetName=NetC502A_2 Pin=J600-2
+Added Pin To Net: NetName=NetC502A_2 Pin=J600-4
+Added Pin To Net: NetName=GND Pin=J600-6
+Added Pin To Net: NetName=GND Pin=J600-9
+Added Pin To Net: NetName=GND Pin=J600-14
+Added Pin To Net: NetName=GND Pin=J600-20
+Added Pin To Net: NetName=GND Pin=J600-25
+Added Pin To Net: NetName=GND Pin=J600-30
+Added Pin To Net: NetName=GND Pin=J600-34
+Added Pin To Net: NetName=GND Pin=J600-39
+Added Pin To Net: NetName=NetC502B_2 Pin=J600-41
+Added Pin To Net: NetName=NetC502B_2 Pin=J600-42
+Added Pin To Net: NetName=RX Pin=J600-43
+Added Pin To Net: NetName=TX Pin=J600-44
+Add Net: Net with name "BIAS" already exists
+Add Net: Net with name "BST" already exists
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "FB" already exists
+Add Net: Net with name "FB TPS" already exists
+Add Net: Net with name "G OR" already exists
+Add Net: Net with name "ICTRL" already exists
+Add Net: Net with name "INTVcc" already exists
+Add Net: Net with name "ISN" already exists
+Add Net: Net with name "ISP" already exists
+Add Net: Net with name "PG" already exists
+Add Net: Net with name "RT" already exists
+Add Net: Net with name "STAT" already exists
+Add Net: Net with name "SW" already exists
+Add Net: Net with name "TR/SS" already exists
+Add Net: Net with name "VINA TPS" already exists
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C200 4u7
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C201 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C202 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C203 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C204 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C205 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C206 1u
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C207 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C208 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C209 100n
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C210 20pF
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C211 20pF
+Added Member To Class: ClassName=MICROCONTROLER Member=Component C213 2u2
+Added Member To Class: ClassName=MPPT_1 Member=Component C300A 100n
+Added Member To Class: ClassName=MPPT_2 Member=Component C300B 100n
+Added Member To Class: ClassName=MPPT_1 Member=Component C301A 10u
+Added Member To Class: ClassName=MPPT_2 Member=Component C301B 10u
+Added Member To Class: ClassName=MPPT_1 Member=Component C302A 1u
+Added Member To Class: ClassName=MPPT_1 Member=Component C303A 10p
+Added Member To Class: ClassName=MPPT_2 Member=Component C303B 10p
+Added Member To Class: ClassName=MPPT_1 Member=Component C304A 22u
+Added Member To Class: ClassName=MPPT_2 Member=Component C304B 22u
+Added Member To Class: ClassName=MPPT_1 Member=Component C305A 22u
+Added Member To Class: ClassName=MPPT_2 Member=Component C305B 22u
+Added Member To Class: ClassName=MPPT_1 Member=Component C306A 1u
+Added Member To Class: ClassName=MPPT_2 Member=Component C306B 1u
+Added Member To Class: ClassName=MPPT_2 Member=Component C320B 1u
+Added Member To Class: ClassName=IDEAL_DIODE_1 Member=Component C401A 22u
+Added Member To Class: ClassName=IDEAL_DIODE_2 Member=Component C401B 22u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component C500A 10u
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component C500B 10u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component C501A 10u
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component C501B 10u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component C502A 22u
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component C502B 22u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component C503A 22u
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component C503B 22u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component C504A 22u
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component C504B 22u
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component D700 LED
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component D701 LED
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component D702 LED
+Added Member To Class: ClassName=MPPT_1 Member=Component J300A XT30PW-M
+Added Member To Class: ClassName=MPPT_2 Member=Component J300B XT30PW-M
+Added Member To Class: ClassName=MPPT_1 Member=Component J301A XT30PW-M
+Added Member To Class: ClassName=MPPT_2 Member=Component J301B XT30PW-M
+Added Member To Class: ClassName=Board_Connect Member=Component J600 RPI GPIO Cconnector + 4 Cubesat pins
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component J700 S6B-XH-A (LF)(SN)
+Added Member To Class: ClassName=MICROCONTROLER Member=Component L200 4u7
+Added Member To Class: ClassName=MPPT_1 Member=Component L300A 10u
+Added Member To Class: ClassName=MPPT_2 Member=Component L300B 10u
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component L500A 1u5
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component L500B 1u5
+Added Member To Class: ClassName=MPPT_1 Member=Component N3A NT
+Added Member To Class: ClassName=MPPT_1 Member=Component NT1A NT
+Added Member To Class: ClassName=MPPT_2 Member=Component NT1B NT
+Added Member To Class: ClassName=MPPT_1 Member=Component NT2A NT
+Added Member To Class: ClassName=MPPT_2 Member=Component NT2B NT
+Added Member To Class: ClassName=MPPT_2 Member=Component NT3B NT
+Added Member To Class: ClassName=MICROCONTROLER Member=Component P200 61201021721
+Added Member To Class: ClassName=IDEAL_DIODE_1 Member=Component Q400A TPCA8120
+Added Member To Class: ClassName=IDEAL_DIODE_2 Member=Component Q400B TPCA8120
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component Q700 AO3400A
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component Q701 AO3400A
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R200 10k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R201 10k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R202 33k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R203 33k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R204 10k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R205 10k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R206 10k
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R207 100R
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R208 100R
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R209 100R
+Added Member To Class: ClassName=MICROCONTROLER Member=Component R210 10k
+Added Member To Class: ClassName=MPPT_1 Member=Component R300A 0.025R
+Added Member To Class: ClassName=MPPT_2 Member=Component R300B 0.025R
+Added Member To Class: ClassName=MPPT_1 Member=Component R301A 10k
+Added Member To Class: ClassName=MPPT_2 Member=Component R301B 10k
+Added Member To Class: ClassName=MPPT_1 Member=Component R302A 10k
+Added Member To Class: ClassName=MPPT_2 Member=Component R302B 10k
+Added Member To Class: ClassName=MPPT_1 Member=Component R303a 1M 1%
+Added Member To Class: ClassName=MPPT_2 Member=Component R303B 1M 1%
+Added Member To Class: ClassName=MPPT_1 Member=Component R304A 10k
+Added Member To Class: ClassName=MPPT_2 Member=Component R304B 10k
+Added Member To Class: ClassName=MPPT_1 Member=Component R305A 60k4
+Added Member To Class: ClassName=MPPT_2 Member=Component R305B 60k4
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component R500A 10k
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component R500B 10k
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component R501A 1M 1%
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component R501B 1M 1%
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component R502A 10k
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component R502B 10k
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component R503A 180K
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component R503B 180K
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R700 100R
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R701 100R
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R702 100R
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R703 100R
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R704 1k
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component R706 2k2
+Added Member To Class: ClassName=MICROCONTROLER Member=Component SW200 B3F-3152
+Added Member To Class: ClassName=MICROCONTROLER Member=Component SW201 B3F-3152
+Added Member To Class: ClassName=MICROCONTROLER Member=Component SW202 B3F-3152
+Added Member To Class: ClassName=MPPT_1 Member=Component TP300A TestPoint
+Added Member To Class: ClassName=MPPT_2 Member=Component TP300B TestPoint
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component TP700 TestPoint
+Added Member To Class: ClassName=LED_CONNECTOR Member=Component TP701 TestPoint
+Added Member To Class: ClassName=MICROCONTROLER Member=Component U200A STM32F405RGT6
+Added Member To Class: ClassName=MICROCONTROLER Member=Component U200B STM32F405RGT6
+Added Member To Class: ClassName=MPPT_1 Member=Component U300A LT8611EUDD
+Added Member To Class: ClassName=MPPT_2 Member=Component U300B LT8611EUDD
+Added Member To Class: ClassName=IDEAL_DIODE_1 Member=Component U400A LTC4412ES6
+Added Member To Class: ClassName=IDEAL_DIODE_2 Member=Component U400B LTC4412ES6
+Added Member To Class: ClassName=Buck-Boost_1 Member=Component U500A TPS63020DSJT
+Added Member To Class: ClassName=Buck-Bost_2 Member=Component U500B TPS63020DSJT
+Added Member To Class: ClassName=MICROCONTROLER Member=Component Y200 8MHz

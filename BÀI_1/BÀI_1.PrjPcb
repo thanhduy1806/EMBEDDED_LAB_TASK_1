@@ -1256,7 +1256,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZJOUQUMC
 
 [Document72]
-DocumentPath=..\LIBRARY\RPI_GPIO.SchLib
+DocumentPath=..\LIBRARY\SCHEMATIC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1307,23 +1307,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FVAWNLDQ
 
 [Document75]
-DocumentPath=PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FMUTXMHB
-
-[Document76]
 DocumentPath=..\..\..\THIẾT KẾ HỆ THỐNG NHÚNG\APPLY_LAB\APPLY_LAB\BÀI_1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1339,6 +1322,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document76]
+DocumentPath=PCB2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SOCGAVRX
 
 [Configuration1]
 Name=Sources
