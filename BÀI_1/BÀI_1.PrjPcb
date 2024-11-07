@@ -55,7 +55,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -72,7 +72,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1024,7 +1024,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1041,7 +1041,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1075,7 +1075,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1092,7 +1092,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1109,7 +1109,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1126,7 +1126,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1154,40 +1154,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document66]
-DocumentPath=..\LIBRARY\NET_TIE.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PYFLHLSK
-
-[Document67]
-DocumentPath=..\LIBRARY\NET_TIE.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XIQKUCZT
-
-[Document68]
 DocumentPath=..\LIBRARY\TestPoint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1204,7 +1170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDFKEVLF
 
-[Document69]
+[Document67]
 DocumentPath=..\LIBRARY\TestPont.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1221,7 +1187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDDQZNRU
 
-[Document70]
+[Document68]
 DocumentPath=..\LIBRARY\Integrated_Library1.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1238,14 +1204,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document69]
 DocumentPath=Board_Connect.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1255,7 +1221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJOUQUMC
 
-[Document72]
+[Document70]
 DocumentPath=..\LIBRARY\SCHEMATIC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1272,7 +1238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document71]
 DocumentPath=Board_Connect.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1289,14 +1255,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document72]
 DocumentPath=SHEET_SYMBOL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1306,7 +1272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVAWNLDQ
 
-[Document75]
+[Document73]
 DocumentPath=..\..\..\THIẾT KẾ HỆ THỐNG NHÚNG\APPLY_LAB\APPLY_LAB\BÀI_1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1323,7 +1289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document74]
 DocumentPath=PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1340,7 +1306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOCGAVRX
 
-[Document77]
+[Document75]
 DocumentPath=..\LIBRARY\TL3AR025FTDG.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
