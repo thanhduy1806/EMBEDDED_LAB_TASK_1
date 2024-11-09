@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P200 Old Footprint=61201021721 New Footprint=61201021721
+Change Component Footprint: Designator=TP700 Old Footprint=PCBComponent_1 New Footprint=Testpoint
+Change Component Footprint: Designator=TP701 Old Footprint=PCBComponent_1 New Footprint=Testpoint
+Change Component Footprint: Designator=L300A Old Footprint=WE-PD_7345 New Footprint=WE-PD_7345
+Change Component Footprint: Designator=L300B Old Footprint=WE-PD_7345 New Footprint=WE-PD_7345
+Change Component Designator: OldDesignator=C302B NewDesignator=C320B
+Change Component Designator: OldDesignator=TP700 NewDesignator=TP700A
+Change Component Designator: OldDesignator=TP701 NewDesignator=TP700B
