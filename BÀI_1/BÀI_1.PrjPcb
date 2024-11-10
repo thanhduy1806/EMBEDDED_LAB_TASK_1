@@ -1236,7 +1236,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SVRUSDUX
 
 [Document71]
 DocumentPath=Board_Connect.Harness
@@ -1290,7 +1290,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document74]
-DocumentPath=PCB2.PcbDoc
+DocumentPath=PCB_4_LAYER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1324,7 +1324,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document76]
-DocumentPath=PCB3.PcbDoc
+DocumentPath=PCB_2_LAYER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
